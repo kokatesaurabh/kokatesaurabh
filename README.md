@@ -31,7 +31,7 @@ I’m passionate about advanced red teaming, zero-day exploit development, and A
 
 | CTF                | Result       | Team        | Date       |
 |--------------------|--------------|-------------|------------|
-| Pentathon          | Participated | Solo        | 15/04/2024 |
+| Pentathon          | Participated | Solo        | 15/03/2024 |
 
 In addition to participating in the Pentathon, I’m actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my skills.
 
@@ -103,11 +103,11 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 ---
 
 ## GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&show_icons=true&locale=en&hide_title=false&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" alt="GitHub Stats" />
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
