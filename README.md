@@ -108,18 +108,12 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 ---
 
 ## GitHub Stats
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-  <div style="flex: 1 1 100%; max-width: 48%; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </div>
-  <div style="flex: 1 1 100%; max-width: 48%; margin-bottom: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
-  <div style="flex: 1 1 100%; text-align: center; margin-top: 10px;">
-    <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="fun gif" />
-  </div>
-</div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
