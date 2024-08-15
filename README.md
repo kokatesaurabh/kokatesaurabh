@@ -51,6 +51,20 @@ In addition to participating in the Pentathon, I’m actively solving challenges
 - [HashCracker](https://github.com/kokatesaurabh/HashCracker)
 - [kokatesaurabh](https://github.com/kokatesaurabh)
 
+## Projects 🚀
+
+- **MAK-75-Framework**: The most advanced keylogger framework designed to work across multiple platforms (iOS, macOS, Linux, Windows, Android). It allows real-time monitoring of keystrokes without storing them in a database and includes a 0day feature that activates the keylogger without user interaction. [GitHub Repository](https://github.com/kokatesaurabh/MAK-75-Framework)
+
+- **Cyber-Jarvis**: An advanced AI-based system designed to assist hackers by providing real-time support and solutions when they encounter challenges. Built from scratch with a focus on performance and working with large datasets, this tool aims to be a game-changer in cybersecurity. [GitHub Repository](https://github.com/kokatesaurabh/Cyber-Jarvis)
+
+- **AnonyMac**: A tool designed to enhance network security by automatically changing MAC addresses based on user-defined intervals. This ensures continuous network connectivity while providing an extra layer of anonymity. [GitHub Repository](https://github.com/kokatesaurabh/AnonyMac)
+
+- **Java_Resumebuilder**: A Java-based application that helps users create professional resumes with ease. It offers customizable templates and real-time previews to make the resume-building process seamless. [GitHub Repository](https://github.com/kokatesaurabh/Java_Resumebuilder)
+
+- **HashCracker**: A powerful tool for cracking various types of hashes using different attack methods. This project is aimed at cybersecurity professionals who need to recover lost passwords or test the strength of encryption methods. [GitHub Repository](https://github.com/kokatesaurabh/HashCracker)
+
+- [kokatesaurabh](https://github.com/kokatesaurabh)
+
 ---
 
 Feel free to connect with me and follow my journey in cybersecurity and tech!
