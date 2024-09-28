@@ -42,7 +42,6 @@ In addition to participating in the Pentathon, I’m actively solving challenges
 - Full-stack web3 development course.
 - Building various scripts and bots, showcasing results here.
 
-
 ## My Projects 🚀
 
 - **MAK-75-Framework**: The most advanced keylogger framework designed to work across multiple platforms (iOS, macOS, Linux, Windows, Android). It allows real-time monitoring of keystrokes without storing them in a database and includes a 0day feature that activates the keylogger without user interaction. [GitHub Repository](https://github.com/kokatesaurabh/MAK-75-Framework)
@@ -55,7 +54,14 @@ In addition to participating in the Pentathon, I’m actively solving challenges
 
 - **HashCracker**: A powerful tool for cracking various types of hashes using different attack methods. This project is aimed at cybersecurity professionals who need to recover lost passwords or test the strength of encryption methods. [GitHub Repository](https://github.com/kokatesaurabh/HashCracker)
 
--You can explore more of my work on my GitHub portfolio: [kokatesaurabh](https://github.com/kokatesaurabh)
+- **Stealthy Rat**: A RAT (Remote Access Trojan) that provides stealthy surveillance and data extraction from compromised systems. It operates covertly, making it difficult for security software to detect its presence. [GitHub Repository](https://github.com/kokatesaurabh/stealthy_rat)
+
+- **Reverse Shell**: A versatile reverse shell script allowing secure remote access to compromised systems. This tool offers high customizability and is essential for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
+
+- **TorMap**: A network mapping tool built to operate anonymously over the Tor network. It helps to perform reconnaissance on networks without exposing the tester's identity. [GitHub Repository](https://github.com/kokatesaurabh/TorMap)
+
+- You can explore more of my work on my GitHub portfolio: [kokatesaurabh](https://github.com/kokatesaurabh)
+
 
 ---
 
