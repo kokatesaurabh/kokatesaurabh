@@ -50,7 +50,7 @@ In addition to participating in the **Pentathon (CTF)**, I’m actively solving 
 
 - **Cyber-Jarvis**: An advanced AI-based system designed to assist hackers by providing real-time support and solutions when they encounter challenges. Built from scratch with a focus on performance and working with large datasets, this tool aims to be a game-changer in cybersecurity. [GitHub Repository](https://github.com/kokatesaurabh/Cyber-Jarvis)
 
-- **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk)
+- **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk-The-Ultimate-Static-Analysis-Framework.git)
 
 - **AnonyMac**: A tool designed to enhance network security by automatically changing MAC addresses based on user-defined intervals. This ensures continuous network connectivity while providing an extra layer of anonymity. [GitHub Repository](https://github.com/kokatesaurabh/AnonyMac)
 
