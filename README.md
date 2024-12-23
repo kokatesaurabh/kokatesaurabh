@@ -29,17 +29,19 @@ I’m passionate about advanced red teaming, zero-day exploit development, and A
 
 ## Competitions 🥇
 
-| CTF                | Result       | Team        | Date       |
-|--------------------|--------------|-------------|------------|
-| Pentathon          | Participated | Solo        | 15/03/2024 |
+| Competition        | Result        | Team        | Date                |
+|--------------------|---------------|-------------|---------------------|
+| Pentathon (CTF)    | Participated  | Solo        | 15/03/2024          |
+| SIH'24 (IIT Jammu) | Finalist      | Solo        | 11-12 December 2024 |
 
-In addition to participating in the Pentathon, I’m actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my skills.
+I was a proud finalist in **Smart India Hackathon (SIH'24)** held at **IIT Jammu** from **11th to 12th December 2024**, showcasing innovative problem-solving skills on a national platform.
+In addition to participating in the **Pentathon (CTF)**, I’m actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my cybersecurity skills.
 
 ## Working on: 🚀
 
 - Developing MAK-75, the most advanced keylogger framework with real-time monitoring across all major platforms.
 - Learning Go for high-performance backend development.
-- Full-stack web3 development course.
+- Building my own open-source OS.
 - Building various scripts and bots, showcasing results here.
 
 ## My Projects 🚀
@@ -47,6 +49,8 @@ In addition to participating in the Pentathon, I’m actively solving challenges
 - **MAK-75-Framework**: The most advanced keylogger framework designed to work across multiple platforms (iOS, macOS, Linux, Windows, Android). It allows real-time monitoring of keystrokes without storing them in a database and includes a 0day feature that activates the keylogger without user interaction. [GitHub Repository](https://github.com/kokatesaurabh/MAK-75-Framework)
 
 - **Cyber-Jarvis**: An advanced AI-based system designed to assist hackers by providing real-time support and solutions when they encounter challenges. Built from scratch with a focus on performance and working with large datasets, this tool aims to be a game-changer in cybersecurity. [GitHub Repository](https://github.com/kokatesaurabh/Cyber-Jarvis)
+
+- - **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk)
 
 - **AnonyMac**: A tool designed to enhance network security by automatically changing MAC addresses based on user-defined intervals. This ensures continuous network connectivity while providing an extra layer of anonymity. [GitHub Repository](https://github.com/kokatesaurabh/AnonyMac)
 
