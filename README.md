@@ -32,7 +32,7 @@ I’m passionate about advanced red teaming, zero-day exploit development, and A
 | Competition        | Result        | Team        | Date                |
 |--------------------|---------------|-------------|---------------------|
 | Pentathon (CTF)    | Participated  | Solo        | 15/03/2024          |
-| SIH'24 (IIT Jammu) | Finalist      | Solo        | 11-12 December 2024 |
+| SIH'24 (IIT Jammu) | Finalist      | Team        | 11-12 December 2024 |
 
 I was a proud finalist in **Smart India Hackathon (SIH'24)** held at **IIT Jammu** from **11th to 12th December 2024**, showcasing innovative problem-solving skills on a national platform.
 In addition to participating in the **Pentathon (CTF)**, I’m actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my cybersecurity skills.
