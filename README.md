@@ -126,18 +126,24 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <!-- Dynamic Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
-  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokatesaurabh&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
   
-  <!-- Contributions Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kokatesaurabh&theme=dracula&hide_border=true" alt="Contribution Graph" />
+  <!-- Reliable Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokatesaurabh&theme=react-dark&hide_border=true&bg_color=1a1b27" alt="GitHub Contribution Graph" />
 </div>
 
-<!-- Fun GIF -->
-<img align="right" height="150" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Coding GIF" />
+<!-- Anime Coding GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Anime Coding GIF" width="300" />
+</div>
+
 
 
 ![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
