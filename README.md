@@ -8,7 +8,6 @@
 I'm passionate about **advanced red teaming**, **zero-day exploit development**, and **AI**. My focus is on creating custom exploitation frameworks and innovative cybersecurity solutions. Currently, I'm diving deep into **AI**, building systems from scratch to assist hackers without relying on existing tools or APIs. In my downtime, I enjoy **solving complex problems**, participating in **CTF challenges**, and pushing the boundaries of cybersecurity.
 
 ---
-
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -101,7 +100,6 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
     }
   }
 </style>
-
 
 ---
 
