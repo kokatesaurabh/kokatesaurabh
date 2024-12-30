@@ -13,34 +13,51 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-kokate-b839b921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="LinkedIn" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
+    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #0A66C2, #0077B5); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
+      LinkedIn
+    </span>
   </a>
   <a href="https://x.com/SaurabhKokate20?t=D-Y3vi2HekriAXHRTY3I3Q&s=08">
-    <img src="https://img.shields.io/badge/X-%2300A4E4.svg?style=for-the-badge&logo=x&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="X (formerly Twitter)" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
+    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #00A4E4, #1DA1F2); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
+      X (Twitter)
+    </span>
   </a>
   <a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/?mibextid=qi2Omg">
-    <img src="https://img.shields.io/badge/Facebook-%234E69A2.svg?style=for-the-badge&logo=facebook&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="Facebook" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
+    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #4E69A2, #3b5998); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
+      Facebook
+    </span>
   </a>
   <a href="https://www.instagram.com/0day.xploit_101?igsh=MTgyNmdqZ3RoejI4NA==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="Instagram" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
+    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #E4405F, #F58529); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
+      Instagram
+    </span>
   </a>
 </p>
 
 <style>
-  p a img {
-    transform: scale(1);
+  /* Text Animation */
+  @keyframes textAnim {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  /* Gradient Effect */
+  p a span {
+    font-family: 'Arial', sans-serif;
+    text-decoration: none;
   }
 
-  p a img:hover {
-    transform: scale(1.2);
-  }
-
-  p a {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  p a:hover {
-    transform: rotate(10deg);
+  p a span:hover {
+    color: #fff;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.6), 0 0 20px rgba(255, 255, 255, 0.3);
+    transition: text-shadow 0.3s ease;
   }
 </style>
 
