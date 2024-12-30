@@ -122,7 +122,6 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 
 
 ---
-
 ## 🌟 GitHub Stats
 
 <div align="center">
@@ -139,10 +138,11 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
-<!-- Anime Cartoon GIF -->
+<!-- Hacker Anime GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Anime Cartoon Coding GIF" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Anime GIF" width="350" />
 </div>
+
 
 
 ![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
