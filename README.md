@@ -141,7 +141,7 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 
 <!-- Anime Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" alt="Anime Coding GIF" width="350" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Anime Coding GIF" width="350" />
 </div>
 
 
