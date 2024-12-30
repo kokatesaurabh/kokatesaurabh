@@ -11,95 +11,20 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
 ## 🔗 Connect with Me
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/saurabh-kokate-b839b921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <span class="connect-btn linkedin">LinkedIn</span>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <!-- X (Twitter) -->
   <a href="https://x.com/SaurabhKokate20?t=D-Y3vi2HekriAXHRTY3I3Q&s=08">
-    <span class="connect-btn twitter">X (Twitter)</span>
+    <img src="https://img.shields.io/badge/X-%2300A4E4.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
-  
-  <!-- Facebook -->
   <a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/?mibextid=qi2Omg">
-    <span class="connect-btn facebook">Facebook</span>
+    <img src="https://img.shields.io/badge/Facebook-%234E69A2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  
-  <!-- Instagram -->
   <a href="https://www.instagram.com/0day.xploit_101?igsh=MTgyNmdqZ3RoejI4NA==">
-    <span class="connect-btn instagram">Instagram</span>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
-<!-- Styling for Buttons -->
-<style>
-  /* General Button Style */
-  .connect-btn {
-    font-size: 1.2em;
-    font-weight: 600;
-    padding: 10px 20px;
-    border-radius: 30px;
-    text-align: center;
-    display: inline-block;
-    text-decoration: none;
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
-    color: white;
-    margin: 10px;
-  }
-
-  /* LinkedIn Button */
-  .linkedin {
-    background: #0077B5;
-  }
-
-  .linkedin:hover {
-    background: #005C8A;
-    transform: translateY(-5px);
-    box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);
-  }
-
-  /* X (Twitter) Button */
-  .twitter {
-    background: #00A4E4;
-  }
-
-  .twitter:hover {
-    background: #1DA1F2;
-    transform: translateY(-5px);
-    box-shadow: 0 4px 15px rgba(0, 164, 228, 0.3);
-  }
-
-  /* Facebook Button */
-  .facebook {
-    background: #3b5998;
-  }
-
-  .facebook:hover {
-    background: #4E69A2;
-    transform: translateY(-5px);
-    box-shadow: 0 4px 15px rgba(59, 89, 152, 0.3);
-  }
-
-  /* Instagram Button */
-  .instagram {
-    background: #F58529;
-  }
-
-  .instagram:hover {
-    background: #E4405F;
-    transform: translateY(-5px);
-    box-shadow: 0 4px 15px rgba(244, 133, 41, 0.3);
-  }
-
-  /* Optional Responsive Adjustment */
-  @media (max-width: 768px) {
-    .connect-btn {
-      font-size: 1em;
-      padding: 8px 15px;
-    }
-  }
-</style>
 
 ---
 
