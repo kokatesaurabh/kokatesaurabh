@@ -122,24 +122,27 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 
 
 ---
+
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
-  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokatesaurabh&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
   
-  <!-- Contributions Graph (Alternative) -->
-  <img src="https://github-readme-graph.vercel.app/graph?username=kokatesaurabh&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+  <!-- Advanced Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
-<!-- Anime GIF -->
+<!-- Anime Coding GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNlMWI5NjdmOWI4NWE3ZGRiNzdmYjI0M2M0NTk3ZWM0ZTRkNCZjdD1n/wK3TrGicHBNXeqsLzV/giphy.gif" alt="Anime Coding GIF" width="300"/>
+  <img src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" alt="Anime Coding GIF" width="350" />
 </div>
-
 
 
 
