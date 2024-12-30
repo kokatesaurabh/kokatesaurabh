@@ -123,15 +123,21 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 
 ---
 
-## GitHub Stats
+## 🌟 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Dynamic Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kokatesaurabh&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </div>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<!-- Fun GIF -->
+<img align="right" height="150" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Coding GIF" />
 
 
 ![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
