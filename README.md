@@ -1,14 +1,15 @@
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kokatesaurabh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&row=2&column=3&margin-w=10&margin-h=10&no-frame=true&rank=SSS,SS,S,A,B,C)](https://github.com/kokatesaurabh)
-
-
-# Hi 👋! My name is Saurabh Subhash Kokate and I'm a Cybersecurity Enthusiast from India
+[![trophy](https://github-profile-trophy.vercel.app/?username=kokatesaurabh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/kokatesaurabh)
+# 👋 Hi! I'm Saurabh Subhash Kokate, a Cybersecurity Enthusiast from India
 
 ---
 
 ## About Me
-I’m passionate about advanced red teaming, zero-day exploit development, and AI. My focus lies in crafting custom exploitation frameworks and innovative cybersecurity solutions. Currently, I’m diving deep into AI, creating systems from scratch to assist hackers without relying on existing tools or APIs. In my downtime, I enjoy solving complex problems, participating in CTF challenges, and pushing the limits of cybersecurity.
 
-## Social Media 📡
+I'm passionate about **advanced red teaming**, **zero-day exploit development**, and **AI**. My focus is on creating custom exploitation frameworks and innovative cybersecurity solutions. Currently, I'm diving deep into **AI**, building systems from scratch to assist hackers without relying on existing tools or APIs. In my downtime, I enjoy **solving complex problems**, participating in **CTF challenges**, and pushing the boundaries of cybersecurity.
+
+---
+
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-kokate-b839b921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -23,17 +24,17 @@ I’m passionate about advanced red teaming, zero-day exploit development, and A
   <a href="https://www.instagram.com/0day.xploit_101?igsh=MTgyNmdqZ3RoejI4NA==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  </p>
+</p>
 
+---
 
-
-
-## Competitions 🥇
+## 💼 Competitions
 
 | Competition        | Result        | Team        | Date                |
 |--------------------|---------------|-------------|---------------------|
 | Pentathon (CTF)    | Participated  | Solo        | 15/03/2024          |
 | SIH'24 (IIT Jammu) | Finalist      | Team        | 11-12 December 2024 |
+
 
 I was a proud finalist in **Smart India Hackathon (SIH'24)** held at **IIT Jammu** from **11th to 12th December 2024**, showcasing innovative problem-solving skills on a national platform.
 In addition to participating in the **Pentathon (CTF)**, I’m actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my cybersecurity skills.
