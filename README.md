@@ -13,18 +13,36 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-kokate-b839b921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="LinkedIn" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
   </a>
   <a href="https://x.com/SaurabhKokate20?t=D-Y3vi2HekriAXHRTY3I3Q&s=08">
-    <img src="https://img.shields.io/badge/X-%2300A4E4.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
+    <img src="https://img.shields.io/badge/X-%2300A4E4.svg?style=for-the-badge&logo=x&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="X (formerly Twitter)" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/?mibextid=qi2Omg">
-    <img src="https://img.shields.io/badge/Facebook-%234E69A2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%234E69A2.svg?style=for-the-badge&logo=facebook&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="Facebook" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.instagram.com/0day.xploit_101?igsh=MTgyNmdqZ3RoejI4NA==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&color=gradient&labelColor=black&logoWidth=20" alt="Instagram" width="150" height="50" style="border-radius: 20px; transition: transform 0.3s;"/>
   </a>
 </p>
+
+<style>
+  p a img {
+    transform: scale(1);
+  }
+
+  p a img:hover {
+    transform: scale(1.2);
+  }
+
+  p a {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  p a:hover {
+    transform: rotate(10deg);
+  }
+</style>
 
 ---
 
