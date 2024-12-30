@@ -12,54 +12,96 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
 ## 🔗 Connect with Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/saurabh-kokate-b839b921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #0A66C2, #0077B5); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
-      LinkedIn
-    </span>
+    <span class="connect-btn linkedin">LinkedIn</span>
   </a>
+  
+  <!-- X (Twitter) -->
   <a href="https://x.com/SaurabhKokate20?t=D-Y3vi2HekriAXHRTY3I3Q&s=08">
-    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #00A4E4, #1DA1F2); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
-      X (Twitter)
-    </span>
+    <span class="connect-btn twitter">X (Twitter)</span>
   </a>
+  
+  <!-- Facebook -->
   <a href="https://www.facebook.com/share/A8tKsYm5D3DDvP1V/?mibextid=qi2Omg">
-    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #4E69A2, #3b5998); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
-      Facebook
-    </span>
+    <span class="connect-btn facebook">Facebook</span>
   </a>
+  
+  <!-- Instagram -->
   <a href="https://www.instagram.com/0day.xploit_101?igsh=MTgyNmdqZ3RoejI4NA==">
-    <span style="font-size: 1.5em; font-weight: bold; background: linear-gradient(45deg, #E4405F, #F58529); -webkit-background-clip: text; color: transparent; animation: textAnim 3s ease infinite;">
-      Instagram
-    </span>
+    <span class="connect-btn instagram">Instagram</span>
   </a>
 </p>
 
+<!-- Styling for Buttons -->
 <style>
-  /* Text Animation */
-  @keyframes textAnim {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-  
-  /* Gradient Effect */
-  p a span {
-    font-family: 'Arial', sans-serif;
+  /* General Button Style */
+  .connect-btn {
+    font-size: 1.2em;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-align: center;
+    display: inline-block;
     text-decoration: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+    color: white;
+    margin: 10px;
   }
 
-  p a span:hover {
-    color: #fff;
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.6), 0 0 20px rgba(255, 255, 255, 0.3);
-    transition: text-shadow 0.3s ease;
+  /* LinkedIn Button */
+  .linkedin {
+    background: #0077B5;
+  }
+
+  .linkedin:hover {
+    background: #005C8A;
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);
+  }
+
+  /* X (Twitter) Button */
+  .twitter {
+    background: #00A4E4;
+  }
+
+  .twitter:hover {
+    background: #1DA1F2;
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 164, 228, 0.3);
+  }
+
+  /* Facebook Button */
+  .facebook {
+    background: #3b5998;
+  }
+
+  .facebook:hover {
+    background: #4E69A2;
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(59, 89, 152, 0.3);
+  }
+
+  /* Instagram Button */
+  .instagram {
+    background: #F58529;
+  }
+
+  .instagram:hover {
+    background: #E4405F;
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(244, 133, 41, 0.3);
+  }
+
+  /* Optional Responsive Adjustment */
+  @media (max-width: 768px) {
+    .connect-btn {
+      font-size: 1em;
+      padding: 8px 15px;
+    }
   }
 </style>
+
 
 ---
 
