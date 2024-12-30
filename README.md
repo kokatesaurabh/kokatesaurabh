@@ -4,7 +4,6 @@
 
 ---
 
-
 ## About Me
 I’m passionate about advanced red teaming, zero-day exploit development, and AI. My focus lies in crafting custom exploitation frameworks and innovative cybersecurity solutions. Currently, I’m diving deep into AI, creating systems from scratch to assist hackers without relying on existing tools or APIs. In my downtime, I enjoy solving complex problems, participating in CTF challenges, and pushing the limits of cybersecurity.
 
