@@ -28,7 +28,7 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
 
 ---
 
-## 💼 Competitions
+## Competitions 🥇
 
 | Competition        | Result        | Team        | Date                |
 |--------------------|---------------|-------------|---------------------|
