@@ -54,6 +54,12 @@ In addition to participating in the **Pentathon (CTF)**, I’m actively solving 
 
 - **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk-The-Ultimate-Static-Analysis-Framework.git)
 
+- - **D3scord**: A Web3-based Discord clone built using blockchain technology. This decentralized platform ensures secure and transparent communication, offering users control over their data and privacy. [GitHub Repository](https://github.com/kokatesaurabh/D3scord)
+
+- **Centralized-D3scord**: A centralized version of the D3scord platform, providing users with secure communication features while maintaining control and privacy. [GitHub Repository](https://github.com/kokatesaurabh/Centralized-D3scord.git)
+
+- - **Reverse Shell**: A versatile reverse shell script allowing secure remote access to compromised systems. This tool offers high customizability and is essential for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
+
 - **AnonyMac**: A tool designed to enhance network security by automatically changing MAC addresses based on user-defined intervals. This ensures continuous network connectivity while providing an extra layer of anonymity. [GitHub Repository](https://github.com/kokatesaurabh/AnonyMac)
 
 - **Java_Resumebuilder**: A Java-based application that helps users create professional resumes with ease. It offers customizable templates and real-time previews to make the resume-building process seamless. [GitHub Repository](https://github.com/kokatesaurabh/Java_Resumebuilder)
@@ -61,8 +67,6 @@ In addition to participating in the **Pentathon (CTF)**, I’m actively solving 
 - **HashCracker**: A powerful tool for cracking various types of hashes using different attack methods. This project is aimed at cybersecurity professionals who need to recover lost passwords or test the strength of encryption methods. [GitHub Repository](https://github.com/kokatesaurabh/HashCracker)
 
 - **Stealthy Rat**: A RAT (Remote Access Trojan) that provides stealthy surveillance and data extraction from compromised systems. It operates covertly, making it difficult for security software to detect its presence. [GitHub Repository](https://github.com/kokatesaurabh/stealthy_rat)
-
-- **Reverse Shell**: A versatile reverse shell script allowing secure remote access to compromised systems. This tool offers high customizability and is essential for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
 
 - **TorMap**: A network mapping tool built to operate anonymously over the Tor network. It helps to perform reconnaissance on networks without exposing the tester's identity. [GitHub Repository](https://github.com/kokatesaurabh/TorMap)
 
