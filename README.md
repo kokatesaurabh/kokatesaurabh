@@ -54,11 +54,11 @@ In addition to participating in the **Pentathon (CTF)**, I’m actively solving 
 
 - **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk-The-Ultimate-Static-Analysis-Framework.git)
 
-- - **D3scord**: A Web3-based Discord clone built using blockchain technology. This decentralized platform ensures secure and transparent communication, offering users control over their data and privacy. [GitHub Repository](https://github.com/kokatesaurabh/D3scord)
+- **D3scord**: A Web3-based Discord clone built using blockchain technology. This decentralized platform ensures secure and transparent communication, offering users control over their data and privacy. [GitHub Repository](https://github.com/kokatesaurabh/D3scord)
 
 - **Centralized-D3scord**: A centralized version of the D3scord platform, providing users with secure communication features while maintaining control and privacy. [GitHub Repository](https://github.com/kokatesaurabh/Centralized-D3scord.git)
 
-- - **Reverse Shell**: A versatile reverse shell script allowing secure remote access to compromised systems. This tool offers high customizability and is essential for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
+- **Reverse Shell**: A versatile reverse shell script allowing secure remote access to compromised systems. This tool offers high customizability and is essential for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
 
 - **AnonyMac**: A tool designed to enhance network security by automatically changing MAC addresses based on user-defined intervals. This ensures continuous network connectivity while providing an extra layer of anonymity. [GitHub Repository](https://github.com/kokatesaurabh/AnonyMac)
 
@@ -115,8 +115,6 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 | Ubuntu | Kali | Parrot | BlackArch | Tails OS | Windows XP | Garuda |
 |--------|------|--------|-----------|----------|------------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://github.com/kokatesaurabh/kokatesaurabh/blob/main/assets/parrot.svg" title="Parrot OS" alt="Parrot OS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="55" height="55"/> | <img src="https://github.com/kokatesaurabh/kokatesaurabh/blob/main/assets/tails.svg" title="Tails OS" alt="Tails OS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows XP" alt="Windows XP" width="55" height="55"/> | <img src="https://github.com/kokatesaurabh/kokatesaurabh/blob/main/assets/garuda-blue.png" title="Garuda Linux" alt="Garuda Linux" width="55" height="55"/> |
-
-
 
 
 
