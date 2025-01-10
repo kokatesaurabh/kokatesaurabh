@@ -136,7 +136,7 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kokatesaurabh&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kokatesaurabh&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
   
   <!-- Advanced Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
