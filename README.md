@@ -133,22 +133,18 @@ Here’s an advanced version of your GitHub stats section with added visual enha
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://YOUR_DEPLOYED_GITHUB_STATS_URL/api?username=kokatesaurabh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://YOUR_DEPLOYED_GITHUB_STATS_URL/api/top-langs?username=kokatesaurabh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=kokatesaurabh&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
   
   <!-- Advanced Contribution Graph -->
-  <img src="https://YOUR_DEPLOYED_ACTIVITY_GRAPH_URL/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
-<!-- Hacker Anime GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Anime GIF" width="350" />
-</div>
 
 
 
