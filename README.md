@@ -129,39 +129,30 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 Here’s an advanced version of your GitHub stats section with added visual enhancements and interactive elements. 
 
 ---
-
-## 🌟 GitHub Stats  
+## 🌟 GitHub Stats
 
 <div align="center">
-  
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kokatesaurabh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  
+  <img src="https://YOUR_DEPLOYED_GITHUB_STATS_URL/api?username=kokatesaurabh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kokatesaurabh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-  
+  <img src="https://YOUR_DEPLOYED_GITHUB_STATS_URL/api/top-langs?username=kokatesaurabh&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=kokatesaurabh&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak Stats" />
   
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
-  
-  <!-- Custom Trophy Section -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kokatesaurabh&theme=tokyonight&no-frame=true&column=4&row=2" alt="Trophies" />
-  
+  <!-- Advanced Contribution Graph -->
+  <img src="https://YOUR_DEPLOYED_ACTIVITY_GRAPH_URL/graph?username=kokatesaurabh&theme=tokyo-night&bg_color=1a1b27&color=66f2ff&line=3ddc97&point=ffffff&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
----
-
-<!-- Cool Hacker GIF -->
+<!-- Hacker Anime GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker GIF" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Anime GIF" width="350" />
 </div>
 
----
 
-### 🐍 Contribution Snake Animation  
 
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 <div align="center">
   <img src="https://raw.githubusercontent.com/kokatesaurabh/kokatesaurabh/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
