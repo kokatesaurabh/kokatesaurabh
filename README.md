@@ -149,9 +149,7 @@ Here’s an advanced version of your GitHub stats section with added visual enha
 
 
 ![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kokatesaurabh/kokatesaurabh/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+
 
 
 
