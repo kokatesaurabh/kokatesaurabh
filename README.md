@@ -58,6 +58,8 @@ Check out my personal portfolio website 👉 [saurabhkokate.netlify.app](https:/
 
 - **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk-The-Ultimate-Static-Analysis-Framework.git)
 
+- **BlackHawk-75: Checkmate**: A comprehensive Application Security (AppSec) framework that integrates automated vulnerability detection, exploit generation, and real-time patch recommendations. Designed for both offensive and defensive security teams, BlackHawk-75 offers advanced fuzzing, static/dynamic analysis, and threat modeling to secure web and mobile applications. [GitHub Repository](https://github.com/kokatesaurabh/BlackHawk-75-Checkmate)
+
 - **D3scord**: A Web3-based Discord clone built using blockchain technology. This decentralized platform ensures secure and transparent communication, offering users control over their data and privacy. [GitHub Repository](https://github.com/kokatesaurabh/D3scord)
 
 - **Centralized-D3scord**: A centralized version of the D3scord platform, providing users with secure communication features while maintaining control and privacy. [GitHub Repository](https://github.com/kokatesaurabh/Centralized-D3scord.git)
@@ -75,6 +77,7 @@ Check out my personal portfolio website 👉 [saurabhkokate.netlify.app](https:/
 - **TorMap**: A network mapping tool built to operate anonymously over the Tor network. It helps to perform reconnaissance on networks without exposing the tester's identity. [GitHub Repository](https://github.com/kokatesaurabh/TorMap)
 
 - You can explore more of my work on my GitHub portfolio: [kokatesaurabh](https://github.com/kokatesaurabh)
+
 
 
 ---
