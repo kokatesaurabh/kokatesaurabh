@@ -8,6 +8,7 @@
 I'm passionate about **advanced red teaming**, **zero-day exploit development**, and **AI**. My focus is on creating custom exploitation frameworks and innovative cybersecurity solutions. Currently, I'm diving deep into **AI**, building systems from scratch to assist hackers without relying on existing tools or APIs. In my downtime, I enjoy **solving complex problems**, participating in **CTF challenges**, and pushing the boundaries of cybersecurity.
 
 ---
+
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -25,7 +26,6 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
   </a>
 </p>
 
-
 ---
 
 ## Competitions 🥇
@@ -37,11 +37,26 @@ I'm passionate about **advanced red teaming**, **zero-day exploit development**,
 
 
 I was a proud finalist in **Smart India Hackathon (SIH'24)** held at **IIT Jammu** from **11th to 12th December 2024**, showcasing innovative problem-solving skills on a national platform.
-In addition to participating in the **Pentathon (CTF)**, I’m actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my cybersecurity skills.
+In addition to participating in the **Pentathon (CTF)**, I'm actively solving challenges on [TryHackMe](https://tryhackme.com) to further hone my cybersecurity skills.
 
 ### 👨‍💻 Portfolio  
 Check out my personal portfolio website 👉 [saurabhkokate.netlify.app](https://saurabhkokate.netlify.app/)
 
+---
+
+## 🌍 Open Source Contributions
+
+### MobSF — Mobile Security Framework &nbsp;·&nbsp; [PR #2555 ↗](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2555) &nbsp;`Dec 2025` ✅ Merged
+
+[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) is a widely-used open-source automated mobile security testing framework for Android, iOS, and Windows, trusted by security teams worldwide.
+
+- Contributed to the core MobSF engine by enhancing error handling and logging in the `MalwareDomainCheck` module
+- Implemented granular exception handling (`FileNotFoundError`, `PermissionError`, `IOError`) to prevent runtime crashes in production scans
+- Added pre-flight database validation checks and URL/domain input validation for improved reliability
+- Enhanced logging with traceable progress tracking; ensured graceful degradation on failures
+- Successfully passed lint, QA checks, and merged into MobSF `master` branch after review by maintainers
+
+---
 
 ## Working on: 🚀
 
@@ -52,37 +67,26 @@ Check out my personal portfolio website 👉 [saurabhkokate.netlify.app](https:/
 
 ## My Projects 🚀
 
-- **MAK-75-Framework**: The most advanced keylogger framework designed to work across multiple platforms (iOS, macOS, Linux, Windows, Android). It allows real-time monitoring of keystrokes without storing them in a database and includes a 0day feature that activates the keylogger without user interaction. [GitHub Repository](https://github.com/kokatesaurabh/MAK-75-Framework)
+- **BlackHawk-75: Checkmate** — A comprehensive Android Application Security (AppSec) framework that integrates automated vulnerability detection, exploit generation, and real-time patch recommendations. Designed for both offensive and defensive security teams with advanced fuzzing, static/dynamic analysis (MobSF, SonarQube, Android Lint), ML-based anomaly detection (SVM, Random Forest, Isolation Forest), and automated CI/CD-integrated DevSecOps reports (PDF/JSON). [GitHub Repository](https://github.com/kokatesaurabh/BlackHawk-75-Checkmate)
 
-- **Cyber-Jarvis**: An advanced AI-based system designed to assist hackers by providing real-time support and solutions when they encounter challenges. Built from scratch with a focus on performance and working with large datasets, this tool aims to be a game-changer in cybersecurity. [GitHub Repository](https://github.com/kokatesaurabh/Cyber-Jarvis)
+- **KN-78 Knightmare** — An advanced LLVM-based binary obfuscation framework for building resilient Windows and Linux binaries. Implements control flow flattening, bogus code insertion, instruction substitution, and string encryption to harden compiled binaries against reverse engineering and static analysis tools. Presented at **Tantravihar 2025 (State Level Project Competition)**. [GitHub Repository](https://github.com/kokatesaurabh/KN-78-Knightmare)
 
-- **VulnHawk**: An advanced vulnerability scanner and exploitation tool, designed to automatically identify and exploit vulnerabilities in systems and applications, providing deep insights into potential security gaps. [GitHub Repository](https://github.com/kokatesaurabh/VulnHawk-The-Ultimate-Static-Analysis-Framework.git)
+- **Leviathan OS** — A custom Debian-based Linux distribution built entirely from scratch. Engineered with offensive security and privacy as core design principles — featuring a hardened kernel configuration, pre-integrated pentesting toolchain, and a custom installer. [GitHub Repository](https://github.com/kokatesaurabh/Leviathan-OS)
 
-- **BlackHawk-75: Checkmate**: A comprehensive Application Security (AppSec) framework that integrates automated vulnerability detection, exploit generation, and real-time patch recommendations. Designed for both offensive and defensive security teams, BlackHawk-75 offers advanced fuzzing, static/dynamic analysis, and threat modeling to secure web and mobile applications. [GitHub Repository](https://github.com/kokatesaurabh/BlackHawk-75-Checkmate)
+- **MAK-75-Framework** — The most advanced cross-platform keylogger framework designed to work across iOS, macOS, Linux, Windows, and Android. Features real-time keystroke monitoring without database storage and includes a 0-day activation vector that triggers the keylogger without any user interaction. [GitHub Repository](https://github.com/kokatesaurabh/MAK-75-Framework)
 
-- **D3scord**: A Web3-based Discord clone built using blockchain technology. This decentralized platform ensures secure and transparent communication, offering users control over their data and privacy. [GitHub Repository](https://github.com/kokatesaurabh/D3scord)
+- **Cyber-Jarvis** — An advanced AI-based system designed to assist hackers by providing real-time support and solutions when they encounter challenges. Built from scratch with a focus on performance, integrating OSINT, vulnerability scanning, hash cracking, steganography, and AI jailbreak modules. [GitHub Repository](https://github.com/kokatesaurabh/Cyber-Jarvis)
 
-- **Centralized-D3scord**: A centralized version of the D3scord platform, providing users with secure communication features while maintaining control and privacy. [GitHub Repository](https://github.com/kokatesaurabh/Centralized-D3scord.git)
+- **D3scord** — A Web3-based Discord clone built using blockchain technology. Architected with OpenZeppelin ERC-721, Solidity smart contracts, Ethers.js for on-chain identity management, and a React.js frontend with Socket.io for real-time P2P communication. [GitHub Repository](https://github.com/kokatesaurabh/D3scord)
 
-- **Reverse Shell**: A versatile reverse shell script allowing secure remote access to compromised systems. This tool offers high customizability and is essential for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
-
-- **AnonyMac**: A tool designed to enhance network security by automatically changing MAC addresses based on user-defined intervals. This ensures continuous network connectivity while providing an extra layer of anonymity. [GitHub Repository](https://github.com/kokatesaurabh/AnonyMac)
-
-- **Java_Resumebuilder**: A Java-based application that helps users create professional resumes with ease. It offers customizable templates and real-time previews to make the resume-building process seamless. [GitHub Repository](https://github.com/kokatesaurabh/Java_Resumebuilder)
-
-- **HashCracker**: A powerful tool for cracking various types of hashes using different attack methods. This project is aimed at cybersecurity professionals who need to recover lost passwords or test the strength of encryption methods. [GitHub Repository](https://github.com/kokatesaurabh/HashCracker)
-
-- **Stealthy Rat**: A RAT (Remote Access Trojan) that provides stealthy surveillance and data extraction from compromised systems. It operates covertly, making it difficult for security software to detect its presence. [GitHub Repository](https://github.com/kokatesaurabh/stealthy_rat)
-
-- **TorMap**: A network mapping tool built to operate anonymously over the Tor network. It helps to perform reconnaissance on networks without exposing the tester's identity. [GitHub Repository](https://github.com/kokatesaurabh/TorMap)
+- **Reverse Shell** — A versatile, highly customizable reverse shell script for secure remote access to compromised systems. Essential toolkit for penetration testers and red teamers. [GitHub Repository](https://github.com/kokatesaurabh/reverse-shell)
 
 - You can explore more of my work on my GitHub portfolio: [kokatesaurabh](https://github.com/kokatesaurabh)
-
-
 
 ---
 
 Feel free to connect with me and follow my journey in cybersecurity and tech!
+
 ## Languages and Tools 
 <div>
 
@@ -156,7 +160,3 @@ Feel free to connect with me and follow my journey in cybersecurity and tech!
 
 
 ![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-
-
-
